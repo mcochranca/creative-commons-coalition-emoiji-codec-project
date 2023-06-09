@@ -9,6 +9,8 @@
 
 This research proposal aims to develop an innovative approach for language retrieval by leveraging emoji-to-Kaktovik translation. The objective is to build a more interpretable and interoperable language retrieval process that surpasses traditional binary fragmenting techniques. By translating emojis to Kaktovik numerals, we can capture their inherent meaning and relationships, enabling precise and resource-efficient language retrieval. This proposal is being submitted to Microsoft AI Research and prospective universities to explore the potential of emoji-based language retrieval.
 
+[![](https://mermaid.ink/img/pako:eNqVl81u00AUhV9lNIhdWtkz_kdiQWpVVYJUNVlBkDXY03SIY0e20za0XbBhwQokFuwq8RA8F4_A_KTNxFIk7qo55565dzxfGo3vcF4XHCd43rDVFZq-mVUIpe9nOF3Wn8QpW3I0LFnbzvAHXUFHR6_vZzjLRCW6LJvhe3Q2kvEzKQUrxWeOeJU3m1Un6ipb8A1iVYHmsk9W1vNel7ZjTZepouozOZV9JspCp9ray8rV2arhhchVZ5Ufn8v8uJ6jc8veW1OIdlWyjZ6QNbxdl12rVp5cyJUnpqhnoYun4t76vK6uudwhV2eRdXW2YIuuvhaLTD6Ueribuil0x6E6g6GJI310qKvRaBvXZzB6ju_N6Boxn_Mmy1lZqiMSueo3Hct-U1NCQ1lCY1PSa9v1R4NLT1KO7OfKFX8ff33bZqRDjPNl51DjfN05nnEed45vnJ87JzDO750TGufHzomM833nxMb5s3V4Vag_w5F6brlbWxBbUFt4tvBtEdgitEVki1iJ6dga-iSILagtPFv4tghsEdoisoUemrpbwrHzUiE1A1PSc_XklPZcvYXU67l6L6nfc_Wm0qDn6t2lYc_V20yjnmv2G2_dC_ltrZe64B4qkEMFeqjgHSr4hwrBoUJ4qKCfrhTVYtJtSo4c1HZNveDJC8LzInQHRh7diKK7Ssjq9tV-3gXmCTBPgXkPmPeB-QCYD4H5CJiPobzAgKGEXShiF8rYhUJ2oZRdKGYXytmFgnahpAmUNAH_L0NJEyhpAiVNoKQJlDSBkiZQ0gRKmkJJUyhpCv7ZhpKmUNIUSppCSVMoaQolTf-HNB7gJW-WTBTyjeNONZAX4CuuLvuJ_FjwSyav4TM8qx5klK27erKpcpx0zZoP8HpVsI6fCCYvv8t9My1EVzc4uWRlK80Vq97V9XNGSpzc4VucxPSYel7kByQgxAkdOsAbnHj-se86NPB8SrzQCR8G-LNe7hzHTuz6jk8iQjw_iAaY60lvzUuTfnd6-AdpI06c?type=png)](https://mermaid.live/edit#pako:eNqVl81u00AUhV9lNIhdWtkz_kdiQWpVVYJUNVlBkDXY03SIY0e20za0XbBhwQokFuwq8RA8F4_A_KTNxFIk7qo55565dzxfGo3vcF4XHCd43rDVFZq-mVUIpe9nOF3Wn8QpW3I0LFnbzvAHXUFHR6_vZzjLRCW6LJvhe3Q2kvEzKQUrxWeOeJU3m1Un6ipb8A1iVYHmsk9W1vNel7ZjTZepouozOZV9JspCp9ray8rV2arhhchVZ5Ufn8v8uJ6jc8veW1OIdlWyjZ6QNbxdl12rVp5cyJUnpqhnoYun4t76vK6uudwhV2eRdXW2YIuuvhaLTD6Ueribuil0x6E6g6GJI310qKvRaBvXZzB6ju_N6Boxn_Mmy1lZqiMSueo3Hct-U1NCQ1lCY1PSa9v1R4NLT1KO7OfKFX8ff33bZqRDjPNl51DjfN05nnEed45vnJ87JzDO750TGufHzomM833nxMb5s3V4Vag_w5F6brlbWxBbUFt4tvBtEdgitEVki1iJ6dga-iSILagtPFv4tghsEdoisoUemrpbwrHzUiE1A1PSc_XklPZcvYXU67l6L6nfc_Wm0qDn6t2lYc_V20yjnmv2G2_dC_ltrZe64B4qkEMFeqjgHSr4hwrBoUJ4qKCfrhTVYtJtSo4c1HZNveDJC8LzInQHRh7diKK7Ssjq9tV-3gXmCTBPgXkPmPeB-QCYD4H5CJiPobzAgKGEXShiF8rYhUJ2oZRdKGYXytmFgnahpAmUNAH_L0NJEyhpAiVNoKQJlDSBkiZQ0gRKmkJJUyhpCv7ZhpKmUNIUSppCSVMoaQolTf-HNB7gJW-WTBTyjeNONZAX4CuuLvuJ_FjwSyav4TM8qx5klK27erKpcpx0zZoP8HpVsI6fCCYvv8t9My1EVzc4uWRlK80Vq97V9XNGSpzc4VucxPSYel7kByQgxAkdOsAbnHj-se86NPB8SrzQCR8G-LNe7hzHTuz6jk8iQjw_iAaY60lvzUuTfnd6-AdpI06c)
+
 ## Objectives
 
 1. Develop an emoji clustering, indexing, and fragmentation method that organizes emojis into semantically meaningful groups, surpassing the limitations of binary fragmenting techniques.
@@ -16,6 +18,25 @@ This research proposal aims to develop an innovative approach for language retri
 3. Design algorithms and models that leverage the translated Kaktovik numerals for precise and resource-efficient language retrieval.
 4. Evaluate the interpretability and interoperability of the proposed approach, comparing it to traditional binary fragmenting techniques.
 5. Demonstrate the practical applications of the emoji-to-Kaktovik translation in real-world language retrieval scenarios, showcasing its advantages in precision, efficiency, and interpretability.
+
+![typex_reflector](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/06fec22c-6b81-4edc-b539-6293c33128b4)
+![typex_plugboard](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/64198b09-551c-428d-bf83-a77e20554345)
+![Kaktovic  Vector PLot](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/3d41862c-8843-4984-a750-75beb9294d3e)
+![1](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/f7ef76cf-6af8-4de1-a77b-27343f64b4a1)
+![2](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/b23193bc-7ace-4b71-90bd-d6787e268a9c)
+![4](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/b4c8e7da-9476-4b90-81cd-8d4655135758)
+![5](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/7c302b4f-e9f8-48f0-be61-0f717fad190b)
+![6](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/75df8c73-1626-4817-87ed-e269b3f284d9)
+![7](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/812913a7-68d8-466a-9afd-1216d85128b4)
+![8](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/bd961423-70e1-4640-a505-ee2c157b263f)
+![9](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/eeba944a-9d7e-4dd5-80cc-4d41f826aedc)
+![10](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/26300e15-9059-4d8e-a6e7-91a9c7ae5afe)
+![11](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/b1dd305c-37f5-4cc0-a323-685546e69919)
+![12](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/85408199-11df-459a-b955-46e1e6cfa6d4)
+![13](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/1ab38a25-8c23-4576-9c74-9c8f0bed7334)
+![KAKTOVIC NUMERAL 1 (-3,5)(3,-5)](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/9e2fb287-07d3-4093-923a-f9e293a3e69d)
+![jmir_v23i5e15708_app1](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/a9061c71-15e4-4486-b1ec-ab9a94cc5f31)
+
 
 ## Methodology
 
@@ -66,6 +87,10 @@ The estimated timeline for this research project is as follows:
 ## Authors
 
 - [@ingeniously](https://www.github.com/ingeniously)
+
+## Research Links
+
+- 
 
 
 ## License
