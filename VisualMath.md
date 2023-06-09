@@ -1,0 +1,12 @@
+
+![3ssNNmaS](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/9a21d27a-74a1-4950-8975-60b35229ebb5)![B6nS4vCe](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/5d4bc643-bc48-4970-a8ef-4ca3e00a2814)
+![axfNjaj6](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/ef1b2966-6c40-4b67-99ba-5ff8467db4da)
+![cGOSPobC](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/db1cbcbd-149d-4914-a124-a79a83d7cc3a)
+![typex_plugboard](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/240c632a-bb76-4865-88e3-50074e9cecc2)
+![Kaktovic  Vector PLot](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/70f86bc6-a398-4271-9e4d-537ae603a3c9)
+![2](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/4c07d9e3-631d-4af7-9c1b-8f36926b0084)
+![6](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/2c8023b0-8094-4f08-9747-5f734b8c54ce)
+![9](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/4b76467e-8bb0-4e4c-aec6-a658008742b2)
+![12](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/6b57a02b-7a27-4ac5-878c-f0af9056fc8a)
+![348366132_3389660927924279_2199625523694389350_n](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/09959ffd-2f8a-480c-b00a-fff82258e3ed)
+![Screenshot 2023-06-07 132449](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/66ab3638-c0c8-41fd-ac2f-3a9af026ae5a)
