@@ -39,23 +39,6 @@ This research proposal aims to develop an innovative approach for language retri
 ![jmir_v23i5e15708_app1](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/a9061c71-15e4-4486-b1ec-ab9a94cc5f31)
 
 
-## Methodology
-
-1. **Emoji Clustering**: Develop an advanced clustering method that groups visually and semantically similar emojis together. Explore techniques that consider various factors, such as visual characteristics, semantic meanings, and user interpretations, to form cohesive and meaningful clusters.
-2. **Kaktovik Numerals Encoding**: Investigate methods for translating emojis to Kaktovik numerals while preserving their inherent meaning and relationships. Design encoding algorithms that capture the nuanced representations of emojis in Kaktovik numerals, enabling precise and interpretable language retrieval.
-3. **Translation Models**: Develop machine learning models and algorithms that translate emojis to their corresponding Kaktovik numerals. Train these models using large-scale annotated datasets of emojis and their Kaktovik numeral translations to ensure accurate and context-aware translations.
-4. **Language Retrieval Integration**: Integrate the translated Kaktovik numerals into the language retrieval process. Develop efficient indexing and retrieval techniques that leverage the inherent meaning and relationships captured in the Kaktovik numerals to enhance the precision and efficiency of language retrieval.
-5. **Evaluation and Analysis**: Evaluate the performance of the proposed approach by measuring metrics such as retrieval accuracy, precision, recall, and resource efficiency. Compare the results against traditional binary fragmenting techniques to assess the interpretability and interoperability advantages of the emoji-to-Kaktovik translation.
-6. **Real-World Applications**: Deploy the developed language retrieval system in real-world scenarios, such as information retrieval, chatbots, and recommendation systems. Demonstrate the practical benefits of the emoji-to-Kaktovik translation approach in terms of improved precision, interpretability, and reduced resource requirements.
-
-## Expected Outcomes
-
-1. Enhanced precision and interpretability in language retrieval through the emoji-to-Kaktovik translation approach.
-2. Improved interoperability of the language retrieval system, surpassing the limitations of binary fragmenting techniques.
-3. Resource-efficient language retrieval process, enabling faster and more precise retrieval of relevant information.
-4. Insights into the potential applications and advantages of emoji-to-Kaktovik translation in various language processing tasks.
-5. Collaboration and knowledge exchange opportunities with Microsoft AI Research and prospective universities in advancing the field of interpretable and interoperable language retrieval.
-
 
 ## Authors
 
