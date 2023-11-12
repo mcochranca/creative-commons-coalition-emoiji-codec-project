@@ -20,9 +20,7 @@ This research proposal aims to develop an innovative approach for language retri
 4. Evaluate the interpretability and interoperability of the proposed approach, comparing it to traditional binary fragmenting techniques.
 5. Demonstrate the practical applications of the emoji-to-Kaktovik translation in real-world language retrieval scenarios, showcasing its advantages in precision, efficiency, and interpretability.
 
-![typex_reflector](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/06fec22c-6b81-4edc-b539-6293c33128b4)
-![typex_plugboard](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/64198b09-551c-428d-bf83-a77e20554345)
-![Kaktovic  Vector PLot](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/3d41862c-8843-4984-a750-75beb9294d3e)
+
 ![1](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/f7ef76cf-6af8-4de1-a77b-27343f64b4a1)
 ![2](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/b23193bc-7ace-4b71-90bd-d6787e268a9c)
 ![4](https://github.com/mcochranca/creative-commons-coalition-emoiji-codec-project/assets/131500068/b4c8e7da-9476-4b90-81cd-8d4655135758)
